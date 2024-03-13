@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF_Project", "WCF_Project.csproj", "{C876C51D-4F31-43A2-8AF4-9F3B33CD1DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "..\Host\Host.csproj", "{BD29CF0F-1BAA-4AEC-BEC9-AAFF9A02494A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf_Client", "..\Wpf_Client\Wpf_Client.csproj", "{8154EB34-5A7A-463F-957E-DD345D4864F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C876C51D-4F31-43A2-8AF4-9F3B33CD1DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C876C51D-4F31-43A2-8AF4-9F3B33CD1DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C876C51D-4F31-43A2-8AF4-9F3B33CD1DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C876C51D-4F31-43A2-8AF4-9F3B33CD1DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD29CF0F-1BAA-4AEC-BEC9-AAFF9A02494A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD29CF0F-1BAA-4AEC-BEC9-AAFF9A02494A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD29CF0F-1BAA-4AEC-BEC9-AAFF9A02494A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD29CF0F-1BAA-4AEC-BEC9-AAFF9A02494A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8154EB34-5A7A-463F-957E-DD345D4864F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8154EB34-5A7A-463F-957E-DD345D4864F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8154EB34-5A7A-463F-957E-DD345D4864F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8154EB34-5A7A-463F-957E-DD345D4864F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BAD774A-67A6-426A-ADC3-6EE9A4AC0D01}
+	EndGlobalSection
+EndGlobal
